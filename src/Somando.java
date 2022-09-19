@@ -17,9 +17,5 @@ public class Somando {
         soma = numero1 + numero2;
 
         System.out.printf("A soma é %d%n", soma);
-
-
-
-
     }
 }
